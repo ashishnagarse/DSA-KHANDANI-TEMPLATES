@@ -1,6 +1,6 @@
-# **BFS on Matrix (Generic Template) 🚀**
+# **BFS on Matrix (Khandani Template) 🚀**
 
-This repository contains a **generic BFS template** for traversing a **2D grid (matrix)** using **4-directional** and **8-directional** movement. BFS is commonly used in pathfinding, connected components detection, and shortest path problems.
+This file contains a **generic BFS template** for traversing a **2D grid (matrix)** using **4-directional** and **8-directional** movement. BFS is commonly used in pathfinding, connected components detection, and shortest path problems.
 
 ---
 
